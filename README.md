@@ -7,7 +7,7 @@ An elegant and scalable E-commerce application built with Flutter. This app prov
 - **Product Listing**: View products with dynamic filtering and categorization.  
 - **Shopping Cart**: Add to cart, view cart items, and manage quantities.  
 - **Wishlist**: Save favorite items for later purchases.  
-- **Payment Integration**: Streamlined payment process (e.g., Razorpay, Stripe).  
+- **Payment Integration**: Streamlined payment process (Razorpay).  
 - **Order History**: Track past orders with detailed information.  
 
 ## Screenshots  
@@ -18,12 +18,12 @@ An elegant and scalable E-commerce application built with Flutter. This app prov
 
 ## Tech Stack  
 - **Framework**: Flutter  
-- **State Management**: Provider / BLoC (your choice)  
-- **Backend**: Firebase / Node.js (mention as per your use)  
-- **Database**: Firestore / MongoDB / MySQL (mention your database)  
-- **Payment Gateway**: Razorpay / Stripe  
+- **State Management**: Provider  
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **Payment Gateway**: Razorpay
 
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/E-commerce-Flutter.git  
+   git clone https://github.com/suryadeveloper03/E-commerce-Flutter.git  
