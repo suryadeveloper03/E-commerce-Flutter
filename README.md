@@ -1,16 +1,29 @@
-# suryasrii_ecommerce
+# E-commerce-Flutter  
 
-A new Flutter project.
+An elegant and scalable E-commerce application built with Flutter. This app provides a seamless shopping experience with intuitive navigation, beautiful UI, and robust functionality.  
 
-## Getting Started
+## Features  
+- **User Authentication**: Sign in, sign up, and manage user profiles.  
+- **Product Listing**: View products with dynamic filtering and categorization.  
+- **Shopping Cart**: Add to cart, view cart items, and manage quantities.  
+- **Wishlist**: Save favorite items for later purchases.  
+- **Payment Integration**: Streamlined payment process (e.g., Razorpay, Stripe).  
+- **Order History**: Track past orders with detailed information.  
 
-This project is a starting point for a Flutter application.
+## Screenshots  
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen | Product Details | Cart Screen |  
+|-------------|------------------|-------------|  
+| ![Home](images/home_screen.png) | ![Product](images/product_details.png) | ![Cart](images/cart_screen.png) |  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack  
+- **Framework**: Flutter  
+- **State Management**: Provider / BLoC (your choice)  
+- **Backend**: Firebase / Node.js (mention as per your use)  
+- **Database**: Firestore / MongoDB / MySQL (mention your database)  
+- **Payment Gateway**: Razorpay / Stripe  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/E-commerce-Flutter.git  
