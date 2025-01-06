@@ -40,5 +40,4 @@ An elegant and scalable E-commerce application built with Flutter. This app prov
    ```bash  
    flutter run
 
-#Contribution
-Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
+
