@@ -26,4 +26,19 @@ An elegant and scalable E-commerce application built with Flutter. This app prov
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/suryadeveloper03/E-commerce-Flutter.git  
+   git clone https://github.com/suryadeveloper03/E-commerce-Flutter.git
+   
+2. Navigate to the project directory:  
+   ```bash  
+   cd E-commerce-Flutter
+
+3. Install dependencies: 
+   ```bash  
+   flutter pub get  
+   
+4. Run the app:
+   ```bash  
+   flutter run
+
+**Contribution**
+Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
